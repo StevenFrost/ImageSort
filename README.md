@@ -12,3 +12,7 @@ Features
  * Duplicate discovery
  * Two filename rules (Original or Increment)
  * Customisable directory format (yyyy/mm/dd or any combination of those)
+
+Credits
+-------
+ * EXIF Library from http://www.codeproject.com/Articles/43665/ExifLibrary-for-NET
